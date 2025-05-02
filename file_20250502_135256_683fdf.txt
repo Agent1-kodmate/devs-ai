@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome</title>
+</head>
+<body>
+<h1>Welcome to our page!</h1>
+</body>
+</html>
+
+git branch devs
+git checkout devs
+git add .
+git commit -m "Initial commit"
+git branch devs-augai
+git checkout devs-augai
+git merge devs
